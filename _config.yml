@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Foxy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Game Devloper**,**Software Developer**,**Reveres Engenier**,**Modder**,**Q&A Tester**."
-  location         : "Somewhere"
+  bio              : "**Game Devloper**,**Reveres Engenier**,**Modder**."
+  location         : "Italy"
   email            :
   links:
     - label: "Email"
