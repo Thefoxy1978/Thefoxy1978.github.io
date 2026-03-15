@@ -1,6 +1,7 @@
 ---
 title: "Corpse Party 2021 (PATCH ITA - UPDATE)"
 layout: single
+permalink: /patch-ita-update/
 ---
 ENG VERSION
 ---------------
