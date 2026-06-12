@@ -1,6 +1,7 @@
 ---
 title: "Corpse Party 2021 (BETA-PATCH ITA)"
 layout: single
+permalink: /patch-ita-beta/
 ---
 
 Questa è la prima beta della patch per la traduzione del gioco “Corpse Party 2021”.
