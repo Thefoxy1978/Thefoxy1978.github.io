@@ -31,7 +31,7 @@ Errori in cui potete imbattervi:
 - Caratteri cosi []
 - Bug
 
-Per qualsiasi domanda,  o altro scriveteci su Discord o su TikTOk:
+Per qualsiasi domanda,  o altro scriveteci su Discord o su TikTok:
 ---------------
 - Thefoxy1978
 
