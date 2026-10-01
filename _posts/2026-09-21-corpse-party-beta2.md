@@ -13,7 +13,7 @@ UPDATE
 
 
 
-Come Intallare La Patch
+Come Installare La Patch
 ---------------
 1. Scaricare la Patch nel sito
 2. Estrarre la cartella

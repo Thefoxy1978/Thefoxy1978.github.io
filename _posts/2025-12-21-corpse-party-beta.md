@@ -10,7 +10,7 @@ Mancano ancora gli oggetti, i capitoli extra ed altro.
 Questa beta punta per il momento sui primi 5 capitoli (visto che sono i più tosti da tradurre).
 
 
-Come Intallare La Patch
+Come Installare La Patch
 ---------------
 1. Scaricare la Patch nel sito
 2. Estrarre la cartella
